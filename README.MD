@@ -129,7 +129,7 @@ REACT_APP_ALCHEMY_API_KEY="" # API key de votre compte Alchemy
 REACT_APP_ETHERSCAN_API_KEY="" # API key de votre compte Etherscan
 ```
 
-Puis exécuter les commandes suivantes :
+Puis exécutez les commandes suivantes :
 ```sh 
 $ npm start # votre app react sera disponible sur http://localhost:3000/ 
 $ cd ../ethereum/
