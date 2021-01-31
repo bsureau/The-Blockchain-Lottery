@@ -1,0 +1,21 @@
+{
+  "name": "blockchainlottery",
+  "version": "1.0.0",
+  "description": "Discovering blockchain programming with Solidity...",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "0.0.12",
+    "@truffle/hdwallet-provider": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.0.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
